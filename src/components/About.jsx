@@ -45,7 +45,7 @@ const About = () => {
         Calorie Based tracker , Movie app and Sri Badrinath Enterprises Website
         (Which is an business startup of cable tray in Secunderabad). If anyone
         reading this portfolio and want to work with me or want to give me work
-        then please contact me at my email address : bkedhar10@gmail.com. please
+        then please contact me at my email address : bkedhar10@gmail.com.
       </motion.p>
       <div className=" mt-2 py-2 flex flex-wrap gap-10 mt-30 ">
         {services.map((service, index) => (
