@@ -148,7 +148,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/kedhar123/kedhar-portfolio",
+    source_code_link: "https://github.com/kedhar123/Kedhar-Portfolio",
   },
 ];
 
