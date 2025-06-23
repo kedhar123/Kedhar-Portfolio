@@ -46,7 +46,6 @@ const About = () => {
         (Which is an business startup of cable tray in Secunderabad). If anyone
         reading this portfolio and want to work with me or want to give me work
         then please contact me at my email address : bkedhar10@gmail.com. please
-        find my resume attached:<a href="../assets/Resume.pdf" className="w-2 h-2 hover:green-pink-gradient text-black no-underline bg-white rounded-2xl m-2 p-1">RESUME</a>
       </motion.p>
       <div className=" mt-2 py-2 flex flex-wrap gap-10 mt-30 ">
         {services.map((service, index) => (
